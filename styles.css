@@ -1,0 +1,39 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+.course-list {
+  list-style: none;
+  padding: 0;
+}
+
+.course-list-item {
+  margin-bottom: 20px;
+}
+
+.course-name {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.course-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.course-link:hover {
+  text-decoration: underline;
+}
